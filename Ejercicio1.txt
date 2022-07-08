@@ -8,22 +8,22 @@ fullstack
 3;realize la consulta con git status y me sale que tengo el archivo ejercicio.txt para usar el git add y comitted
 Genere una consulta que permite verificar el estado del repositorio
 
-4; se crea archivo de texto
+4; se crea archivo de texto con mkdir contenido
 Cree un documento de texto de nombre contenidos.txt, que posea el siguiente
 contenido
 
-5; pude validar que el archivo esta cargado pero el verificar el tamaño no supe como hacerlo( no entendi si se hace por consola )
+5; pude validar que el archivo esta cargado pero el verificar el tamaño no supe como hacerlo
 - Validar que el contenido ingresado esté efectivamente cargado. Verifique
 además el tamaño del archivo y sus permisos de acceso.
 
-6; se añade los archivos listo para cargar
+6; se añade los archivos listo para cargar 
 Añada el archivo al repositorio
 
-7;seleciono archivos y genero el mensaje pedido
+7;seleciono archivos y genero el mensaje pedido, se usa commit
 Aplique los cambios realizados sobre el repositorio, usando como mensaje
 “Primera versión del temario subida a repositorio”
 
-8; agrege el modulo 4 al archivo contenidos.txt
+8; agrege el modulo 4 al archivo contenidos.txt y se usa commit
 Añada una nueva línea al final del archivo, con el contenido “Módulo 4:
 Desarrollo de aplicaciones web dinámicas”.
 
