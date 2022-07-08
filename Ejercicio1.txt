@@ -12,7 +12,13 @@ Genere una consulta que permite verificar el estado del repositorio
 Cree un documento de texto de nombre contenidos.txt, que posea el siguiente
 contenido
 
-5; pude validar que el archivo esta cargado pero el verificar el tamaño no supe como hacerlo
+5; pude validar que el archivo esta cargado pero el verificar el tamaño del archivo es de -rw-r--r-- 1 fabii 197609  195 jul.  8 11:32 contenidos.txt
+-rw-r--r-- 1 fabii 197609 2,0K jul.  8 19:17 Ejercicio1.txt.
+drwxr-xr-x 1
+drwxr-xr-x 1 
+drwxr-xr-x 1
+-rw-r--r-- 1
+-rw-r--r-- 1
 - Validar que el contenido ingresado esté efectivamente cargado. Verifique
 además el tamaño del archivo y sus permisos de acceso.
 
