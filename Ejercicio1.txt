@@ -1,0 +1,25 @@
+1; esta accion es para poder despues crear un repositorio en la carpeta
+Sitúese en la carpeta en la que desee crear el repositorio.
+
+2; se creo carpeta y se inicio repositorio
+Cree una carpeta, y dentro de la misma un repositorio, ambos con el nombre
+fullstack
+
+3;realize la consulta con git status y me sale que tengo el archivo ejercicio.txt para usar el git add y comitted
+Genere una consulta que permite verificar el estado del repositorio
+
+4; se crea archivo de texto
+Cree un documento de texto de nombre contenidos.txt, que posea el siguiente
+contenido
+
+5; pude validar que el archivo esta cargado pero el verificar el tamaño no supe como hacerlo( no entendi si se hace por consola )
+- Validar que el contenido ingresado esté efectivamente cargado. Verifique
+además el tamaño del archivo y sus permisos de acceso.
+
+6; se añade los archivos listo para cargar
+Añada el archivo al repositorio
+
+7;seleciono archivos y genero el mensaje pedido
+Aplique los cambios realizados sobre el repositorio, usando como mensaje
+“Primera versión del temario subida a repositorio”
+
