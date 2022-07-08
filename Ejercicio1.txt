@@ -1,4 +1,4 @@
-1; esta accion es para poder despues crear un repositorio en la carpeta
+1; esta accion es para poder despues crear un repositorio en la carpeta con git init
 Sitúese en la carpeta en la que desee crear el repositorio.
 
 2; se creo carpeta y se inicio repositorio
@@ -23,3 +23,24 @@ Añada el archivo al repositorio
 Aplique los cambios realizados sobre el repositorio, usando como mensaje
 “Primera versión del temario subida a repositorio”
 
+8; agrege el modulo 4 al archivo contenidos.txt
+Añada una nueva línea al final del archivo, con el contenido “Módulo 4:
+Desarrollo de aplicaciones web dinámicas”.
+
+9; al momento de guardar el cambio de contenidos.txt se puede observar que existe un cambio para agregar
+Verificar qué cambios existen en el repositorio que deban ser almacenados
+
+10; se agrega archivo al repositorio con el mensaje establecido por el ejercicio
+Aplicar nuevamente los cambios en el repositorio, esta vez con el mensaje
+“Versión actualizada del contenido”
+
+11; observo los cambio realizados por github
+Ver el registro de cambios creados sobre el repositorio
+
+12; se observa ningun cambio por agregar
+ Finalmente, validar el estado del repositorio
+
+
+ Ruta a repositorio
+
+ https://github.com/riujun/fullstack.git
